@@ -12,3 +12,7 @@ C#으로 알고리즘 공부
 
 ## 2019.07.21
 - [개근상](https://www.acmicpc.net/problem/1563) : 못 품..ㅠㅠ
+
+## 2019.07.22
+- [피보나치수2](https://www.acmicpc.net/problem/2748) : 배열을 이용한 중복 값 저장
+- [피보나치함수](https://www.acmicpc.net/problem/1003) : D&C의 단점을 설명해주는 것 같았지만 결국에는 DP문제
