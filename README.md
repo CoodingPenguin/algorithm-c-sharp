@@ -2,7 +2,7 @@
 C#으로 알고리즘 공부
 ----
 ## 나중에 다시 풀 문제들
-[카우버거알바생](https://www.acmicpc.net/problem/17208)  [개근상](https://www.acmicpc.net/problem/1563)
+[카우버거알바생](https://www.acmicpc.net/problem/17208)  [개근상](https://www.acmicpc.net/problem/1563)  [파도반수열](https://www.acmicpc.net/problem/9461)  [정수삼각형](https://www.acmicpc.net/problem/1932)
 
 ----
 
@@ -25,3 +25,12 @@ C#으로 알고리즘 공부
 
 ## 2019.07.24
 - [파도반수열](https://www.acmicpc.net/problem/9461) : 점화식만 세우면 끝이다! 근데 런타임 에러가 자주 나네.. DP라서 그런가
+
+## 2019.07.25
+- [RGB거리](https://www.acmicpc.net/problem/1149) : 점화식이 필요해.. 점화식.. 정말 모든 경우의 수에 대한 점화식을 세우면 된다
+
+## 2019.07.26
+- [정수삼각형](https://www.acmicpc.net/problem/1932) : 이것도 점화식. 테이블만 채운다고 다 되는 게 아니다! (기존 거 쓸 수 도 있음)
+
+## 2019.07.29
+- ★[계단오르기](https://www.acmicpc.net/problem/2579) : 크으 처음으로 한 번에 푼 문제. 이제 DP 문제에 대한 감이 잡히는 것 같다! 정말 점화식이 다야 다!
