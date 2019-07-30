@@ -1,6 +1,9 @@
-# algorithms
+# algorithms repository
 C#으로 알고리즘 공부
+★은 한 번에 맞은 문제를 표시한 것
+
 ----
+
 ## 나중에 다시 풀 문제들
 [카우버거알바생](https://www.acmicpc.net/problem/17208)  [개근상](https://www.acmicpc.net/problem/1563)  [파도반수열](https://www.acmicpc.net/problem/9461)  [정수삼각형](https://www.acmicpc.net/problem/1932)
 
@@ -34,3 +37,6 @@ C#으로 알고리즘 공부
 
 ## 2019.07.29
 - ★[계단오르기](https://www.acmicpc.net/problem/2579) : 크으 처음으로 한 번에 푼 문제. 이제 DP 문제에 대한 감이 잡히는 것 같다! 정말 점화식이 다야 다!
+
+## 2019.07.30
+- ★[1로 만들기](https://www.acmicpc.net/problem/1463) : 진짜 한 번 감 잡히니까 이제 문제 푸는 데 1시간도 안 걸린다! 하나 더 팁을 적자면 경우의 수를 파악하는 것도 중요한 것 같다!
