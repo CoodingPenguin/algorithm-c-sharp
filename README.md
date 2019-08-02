@@ -5,7 +5,7 @@ C#으로 알고리즘 공부
 ----
 
 ## 나중에 다시 풀 문제들
-[카우버거알바생](https://www.acmicpc.net/problem/17208)  [개근상](https://www.acmicpc.net/problem/1563)  [파도반수열](https://www.acmicpc.net/problem/9461)  [정수삼각형](https://www.acmicpc.net/problem/1932)
+[카우버거알바생](https://www.acmicpc.net/problem/17208)  [개근상](https://www.acmicpc.net/problem/1563)  [파도반수열](https://www.acmicpc.net/problem/9461)  [정수삼각형](https://www.acmicpc.net/problem/1932)  [포도주 시식](https://www.acmicpc.net/problem/2156)
 
 ----
 
@@ -43,3 +43,6 @@ C#으로 알고리즘 공부
 
 ## 2019.07.31
 - [쉬운 계단 오르기](https://www.acmicpc.net/problem/10844) : 범위 때문에 런타임 에러가 남. 그래도 맞췄다!! 범위 양수만 있으면 unsigned long 적용해보자
+
+## 2019.08.01
+- [포도주 시식](https://www.acmicpc.net/problem/2156) : 이번에는 점화식을 못 짰다. 찾아보니까 그렇게 어렵지 않았는데.. 일단 현재의 상황일 때 그 직전 상황이 어떨지 경우의 수를 생각해보는게 좋을 것 같다!
