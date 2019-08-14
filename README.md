@@ -5,7 +5,7 @@
 ----
 
 ## 나중에 다시 풀 문제들
-[카우버거알바생](https://www.acmicpc.net/problem/17208)  [개근상](https://www.acmicpc.net/problem/1563)  [파도반수열](https://www.acmicpc.net/problem/9461)  [정수삼각형](https://www.acmicpc.net/problem/1932)  [포도주 시식](https://www.acmicpc.net/problem/2156)  [가장 긴 바이토닉 부분수열](https://www.acmicpc.net/problem/11054)
+[카우버거알바생](https://www.acmicpc.net/problem/17208)  [개근상](https://www.acmicpc.net/problem/1563)  [파도반수열](https://www.acmicpc.net/problem/9461)  [정수삼각형](https://www.acmicpc.net/problem/1932)  [포도주 시식](https://www.acmicpc.net/problem/2156)  [가장 긴 바이토닉 부분수열](https://www.acmicpc.net/problem/11054)  [전깃줄](https://www.acmicpc.net/problem/2565)
 
 ----
 
@@ -52,3 +52,6 @@
 
 ## 2019.08.12
 - [가장 긴 바이토닉 부분수열](https://www.acmicpc.net/problem/11054) : 몰라서 그냥 보고 풀었는데.. 진짜 너무 2차원 배열로만 생각한 것 같다. 현재 시점이 너무 중요 
+
+## 2019.08.13
+- [전깃줄](https://www.acmicpc.net/problem/2565) : LIS문제였다. 결국에는.. 흠 여러 유형을 풀어보는 게 중요할 듯
