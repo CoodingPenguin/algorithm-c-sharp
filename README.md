@@ -5,7 +5,7 @@
 ----
 
 ## 나중에 다시 풀 문제들
-[카우버거알바생](https://www.acmicpc.net/problem/17208)  [개근상](https://www.acmicpc.net/problem/1563)  [파도반수열](https://www.acmicpc.net/problem/9461)  [정수삼각형](https://www.acmicpc.net/problem/1932)  [포도주 시식](https://www.acmicpc.net/problem/2156)  [가장 긴 바이토닉 부분수열](https://www.acmicpc.net/problem/11054)  [전깃줄](https://www.acmicpc.net/problem/2565)
+[카우버거알바생](https://www.acmicpc.net/problem/17208)  [개근상](https://www.acmicpc.net/problem/1563)  [파도반수열](https://www.acmicpc.net/problem/9461)  [정수삼각형](https://www.acmicpc.net/problem/1932)  [포도주 시식](https://www.acmicpc.net/problem/2156)  [가장 긴 바이토닉 부분수열](https://www.acmicpc.net/problem/11054)  [전깃줄](https://www.acmicpc.net/problem/2565)  [LCS](https://www.acmicpc.net/problem/9251)
 
 ----
 
@@ -48,10 +48,13 @@
 - [포도주 시식](https://www.acmicpc.net/problem/2156) : 이번에는 점화식을 못 짰다. 찾아보니까 그렇게 어렵지 않았는데.. 일단 현재의 상황일 때 그 직전 상황이 어떨지 경우의 수를 생각해보는게 좋을 것 같다!
 
 ## 2019.08.02
-- [가장 긴 증가하는 부분수열](https://www.acmicpc.net/problem/11053) : "아래의 값들을 누적한다"와 "경우의 수"가 중요
+- ★[가장 긴 증가하는 부분수열](https://www.acmicpc.net/problem/11053) : "아래의 값들을 누적한다"와 "경우의 수"가 중요
 
 ## 2019.08.12
 - [가장 긴 바이토닉 부분수열](https://www.acmicpc.net/problem/11054) : 몰라서 그냥 보고 풀었는데.. 진짜 너무 2차원 배열로만 생각한 것 같다. 현재 시점이 너무 중요 
 
 ## 2019.08.13
 - [전깃줄](https://www.acmicpc.net/problem/2565) : LIS문제였다. 결국에는.. 흠 여러 유형을 풀어보는 게 중요할 듯
+
+## 2019.08.14
+- [LCS](https://www.acmicpc.net/problem/9251) : LCS문제. 허용범위 내에 내가 할 수 있는 최대치를 쌓는 문제. 많이 풀어봐야할 듯.
