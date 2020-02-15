@@ -1,60 +1,23 @@
 # algorithms repository
-`C#` `Python3`으로 알고리즘 공부  
-★은 한 번에 맞은 문제를 표시한 것
 
-----
+[백준](noj.am) `C#` `Python3`으로 알고리즘 공부
 
-## 나중에 다시 풀 문제들
-[카우버거알바생](https://www.acmicpc.net/problem/17208)  [개근상](https://www.acmicpc.net/problem/1563)  [파도반수열](https://www.acmicpc.net/problem/9461)  [정수삼각형](https://www.acmicpc.net/problem/1932)  [포도주 시식](https://www.acmicpc.net/problem/2156)  [가장 긴 바이토닉 부분수열](https://www.acmicpc.net/problem/11054)  [전깃줄](https://www.acmicpc.net/problem/2565)  [LCS](https://www.acmicpc.net/problem/9251)
+![푼 문제수](https://img.shields.io/badge/success-70-brightgreen) ![못 푼 문제](https://img.shields.io/badge/fail-2-red)
 
-----
+## 다시 도전할 문제들
 
-## 2019.07.19
-- [ATM 문제](https://www.acmicpc.net/problem/11399) : 정렬 뒤 Weight를 주어서 구함
-- [카우버거알바생](https://www.acmicpc.net/problem/17208) : 아직 못 품 (KnapSack문제 응용)
+[BOJ17208](https://www.acmicpc.net/problem/17208), [BOJ1563](https://www.acmicpc.net/problem/1563), [BOJ9461](https://www.acmicpc.net/problem/9461) [BOJ1932](https://www.acmicpc.net/problem/1932) [BOJ2156](https://www.acmicpc.net/problem/2156), [BOJ11054](https://www.acmicpc.net/problem/11054) [BOJ2565](https://www.acmicpc.net/problem/2565), [BOJ9251](https://www.acmicpc.net/problem/9251)
 
-## 2019.07.20
-- [카드 구매하기](https://www.acmicpc.net/problem/11052) : 정통 DP문제! 많이 풀면서 적응해야할 듯ㅠㅠ
+## 푼 문제들
 
-## 2019.07.21
-- [개근상](https://www.acmicpc.net/problem/1563) : 못 품..ㅠㅠ
+### 2019년 7월
 
-## 2019.07.22
-- [피보나치수2](https://www.acmicpc.net/problem/2748) : 배열을 이용한 중복 값 저장
-- [피보나치함수](https://www.acmicpc.net/problem/1003) : D&C의 단점을 설명해주는 것 같았지만 결국에는 DP문제
+[BOJ11399](https://www.acmicpc.net/problem/11399), [BOJ11052](https://www.acmicpc.net/problem/11052), [BOJ1563](https://www.acmicpc.net/problem/1563), [BOJ2748](https://www.acmicpc.net/problem/2748), [BOJ1003](https://www.acmicpc.net/problem/1003), [BOJ1904](https://www.acmicpc.net/problem/1904), [BOJ9461](https://www.acmicpc.net/problem/9461), [BOJ1149](https://www.acmicpc.net/problem/1149), [BOJ1932](https://www.acmicpc.net/problem/1932), [BOJ2579](https://www.acmicpc.net/problem/2579), [BOJ1463](https://www.acmicpc.net/problem/1463), [BOJ10844](https://www.acmicpc.net/problem/10844)
 
-## 2019.07.23
-- [01타일](https://www.acmicpc.net/problem/1904) : 결국 피보나치 수열 문제 (점화식을 세우다 보니 피보나치더라.. 이런식)
+### 2019년 8월
 
-## 2019.07.24
-- [파도반수열](https://www.acmicpc.net/problem/9461) : 점화식만 세우면 끝이다! 근데 런타임 에러가 자주 나네.. DP라서 그런가
+[BOJ2156](https://www.acmicpc.net/problem/2156), [BOJ11053](https://www.acmicpc.net/problem/11053), [BOJ11054](https://www.acmicpc.net/problem/11054), [BOJ2565](https://www.acmicpc.net/problem/2565), [BOJ9251](https://www.acmicpc.net/problem/9251)
 
-## 2019.07.25
-- [RGB거리](https://www.acmicpc.net/problem/1149) : 점화식이 필요해.. 점화식.. 정말 모든 경우의 수에 대한 점화식을 세우면 된다
+### 2020년 2월
 
-## 2019.07.26
-- [정수삼각형](https://www.acmicpc.net/problem/1932) : 이것도 점화식. 테이블만 채운다고 다 되는 게 아니다! (기존 거 쓸 수 도 있음)
-
-## 2019.07.29
-- ★[계단오르기](https://www.acmicpc.net/problem/2579) : 크으 처음으로 한 번에 푼 문제. 이제 DP 문제에 대한 감이 잡히는 것 같다! 정말 점화식이 다야 다!
-
-## 2019.07.30
-- ★[1로 만들기](https://www.acmicpc.net/problem/1463) : 진짜 한 번 감 잡히니까 이제 문제 푸는 데 1시간도 안 걸린다! 하나 더 팁을 적자면 경우의 수를 파악하는 것도 중요한 것 같다!
-
-## 2019.07.31
-- [쉬운 계단 오르기](https://www.acmicpc.net/problem/10844) : 범위 때문에 런타임 에러가 남. 그래도 맞췄다!! 범위 양수만 있으면 unsigned long 적용해보자
-
-## 2019.08.01
-- [포도주 시식](https://www.acmicpc.net/problem/2156) : 이번에는 점화식을 못 짰다. 찾아보니까 그렇게 어렵지 않았는데.. 일단 현재의 상황일 때 그 직전 상황이 어떨지 경우의 수를 생각해보는게 좋을 것 같다!
-
-## 2019.08.02
-- ★[가장 긴 증가하는 부분수열](https://www.acmicpc.net/problem/11053) : "아래의 값들을 누적한다"와 "경우의 수"가 중요
-
-## 2019.08.12
-- [가장 긴 바이토닉 부분수열](https://www.acmicpc.net/problem/11054) : 몰라서 그냥 보고 풀었는데.. 진짜 너무 2차원 배열로만 생각한 것 같다. 현재 시점이 너무 중요 
-
-## 2019.08.13
-- [전깃줄](https://www.acmicpc.net/problem/2565) : LIS문제였다. 결국에는.. 흠 여러 유형을 풀어보는 게 중요할 듯
-
-## 2019.08.14
-- [LCS](https://www.acmicpc.net/problem/9251) : LCS문제. 허용범위 내에 내가 할 수 있는 최대치를 쌓는 문제. 많이 풀어봐야할 듯.
+[BOJ1546](https://www.acmicpc.net/problem/1546), [BOJ2163](https://www.acmicpc.net/problem/2163), [BOJ2525](https://www.acmicpc.net/problem/2525), [BOJ2530](https://www.acmicpc.net/problem/2530), [BOJ2675](https://www.acmicpc.net/problem/2675), [BOJ2884](https://www.acmicpc.net/problem/2884), [BOJ2920](https://www.acmicpc.net/problem/2920), [BOJ2935](https://www.acmicpc.net/problem/2935), [BOJ3046](https://www.acmicpc.net/problem/3046), [BOJ5355](https://www.acmicpc.net/problem/5355), [BOJ10699](https://www.acmicpc.net/problem/10699)
