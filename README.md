@@ -2,7 +2,7 @@
 
 [백준](noj.am) `C#` `Python3`으로 알고리즘 공부
 
-![랭킹](https://img.shields.io/badge/rank-15914-yellow) ![푼 문제수](https://img.shields.io/badge/success-70-brightgreen) ![못 푼 문제](https://img.shields.io/badge/fail-2-red)
+![랭킹](https://algo-badge.herokuapp.com/badge/unodostre/rank) ![푼 문제수](https://algo-badge.herokuapp.com/badge/unodostre/success) ![못 푼 문제](https://algo-badge.herokuapp.com/badge/unodostre/fail)
 
 ## 다시 도전할 문제들
 
