@@ -2,7 +2,7 @@ def result(s):
     rt = 2
 
     while s >= 0:
-        if s - rt >= 0:
+        if s - rt > 0:
             s -= rt
             rt += 1
         else:
