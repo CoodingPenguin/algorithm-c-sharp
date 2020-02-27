@@ -1,14 +1,23 @@
-N, P = int(input()), int(input())
-v = [False]*N; v[0] = True
-con = []
-for _ in range(P):
-    i = sorted(list(map(lambda x:int(x)-1, input().split())))
-    con.append(i)
-con = sorted(con)
-for c in con:
-    if v[c[0]] == True and v[c[1]] == False:
-        v[c[1]] = True
-    elif v[c[0]] == False and v[c[1]] == True:
-        v[c[0]] = True
+def bfs(graph, n):
+    visit = [False]*n
+    queue = list()
+    queue.append(0)
 
-print(v.count(True)-1)
+    while queue:
+        node = queue.pop(0)
+        if not visit[node]:
+            visit[node] = True
+            queue.extend(graph[node])
+    
+    return visit
+
+
+N, P = int(input()), int(input())
+graph = [[] for _ in range(N)]
+
+for _ in range(P):
+    x, y = list(map(lambda x:int(x)-1, input().split()))
+    graph[x].append(y)
+    graph[y].append(x)
+
+print(bfs(graph, N).count(True)-1)
