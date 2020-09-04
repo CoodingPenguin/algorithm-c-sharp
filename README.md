@@ -2,7 +2,7 @@
 
 [백준](noj.am), [LeetCode](https://leetcode.com/), [프로그래머스](https://programmers.co.kr/) 등으로 Python 알고리즘 연습
 
-## 🚩 랭킹
+## 🏆 기록
 
 ![랭킹](https://algo-badge.herokuapp.com/badge/unodostre/rank) ![푼 문제수](https://algo-badge.herokuapp.com/badge/unodostre/success) ![못 푼 문제](https://algo-badge.herokuapp.com/badge/unodostre/fail)
 
