@@ -11,19 +11,28 @@
 
 <table>
     <tr>
+        <th align="center">구분</th>
         <th align="center">달성</th>
         <th align="center">날짜</th>
-        <th align="center">랭킹</th>
+        <th align="center">비고</th>
     </tr>
     <tr>
+        <td align="center">BOJ</td>
         <td align="center">100개 달성!</td>
         <td align="center">2020년 02월 19일</td>
         <td align="center">10668위</td>
     </tr>
-        <tr>
+    <tr>
+        <td align="center">BOJ</td>
         <td align="center">200개 달성!</td>
         <td align="center">2020년 04월 16일</td>
         <td align="center">4790위</td>
+    </tr>
+    <tr>
+        <td align="center">프로그래머스</td>
+        <td align="center">Level 1 완료!</td>
+        <td align="center">2020년 09월 11일</td>
+        <td align="center">─</td>
     </tr>
 </table>
 
