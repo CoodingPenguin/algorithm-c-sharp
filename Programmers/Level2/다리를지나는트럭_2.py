@@ -1,4 +1,4 @@
-# 다른 사람 풀이 🏷️: Bridge 클래스를 구현
+# 참고: Bridge 클래스를 구현한 다른 사람 풀이
 import collections
 
 
