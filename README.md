@@ -7,8 +7,6 @@
 
 ## 🏆 기록
 
-![랭킹](https://algo-badge.herokuapp.com/badge/unodostre/rank) ![푼 문제수](https://algo-badge.herokuapp.com/badge/unodostre/success) ![못 푼 문제](https://algo-badge.herokuapp.com/badge/unodostre/fail)
-
 <table>
     <tr>
         <th align="center">구분</th>
