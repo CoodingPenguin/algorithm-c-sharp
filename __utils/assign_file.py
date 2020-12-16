@@ -1,20 +1,37 @@
-import os, glob, shutil
+import sys, os, glob, shutil
+
+
+def move_file(src, number, problem):
+        # src 별로 파일 처리
+    if src == "boj":
+        move_boj()
+    elif src == "programmers":
+        move_programmers()
+    else:
+        move_others()
+
 
 def parse(file):
     '''
-    file: [src_problem]으로 이루어진 파일명
-        - src: 알고리즘 문제 출처 (boj, programmers, pfct 중 하나)
-        - problem: 문제 이름 (boj는 [숫자_문제명], programmers는 [레벨_문제명])
+    주어진 파일을 알맞은 이름으로 변경한 뒤 알맞은 폴더로 이동시킵니다.
+    - file: [src_problem]으로 이루어진 파일명으로 src는 출처를, problem은 문제명을 뜻합니다.
     '''
     # src와 problem으로 분리
-
-    # src 별로 파일 처리
+    try:
+        src, number, problem = file.split('_')
+    except:
+        print("잘못된 파일 형식입니다. [src_problem] 형식으로 변경해주세요.")
+        sys.exit()
+    
+    
+    folder, new_name = move_file(src, number, problem)
 
     return folder, new_name
 
 target = '*.py'
 pyfiles = glob.glob(target)
 
+print(parse.__doc__)
 if pyfiles:
     for file in pyfiles:
         try:
