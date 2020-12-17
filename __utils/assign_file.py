@@ -23,10 +23,10 @@ def parse(file):
         print("잘못된 파일 형식입니다. [src_problem] 형식으로 변경해주세요.")
         sys.exit()
     
-    
     folder, new_name = move_file(src, number, problem)
 
     return folder, new_name
+
 
 target = '*.py'
 pyfiles = glob.glob(target)

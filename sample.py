@@ -1,1 +1,3 @@
 import this
+
+print(this)
