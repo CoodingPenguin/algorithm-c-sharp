@@ -4,7 +4,7 @@
   <a href="https://github.com/coodingpenguin/repository-guideline">
     <img src="logo.png" alt="Logo" width="128" height="128">
   </a>
-  <h3 style='border: none; margin-bottom: 5px;'>Problem Solving</h2>
+  <h2 style='border: none; margin-bottom: 5px;'>Problem Solving</h2>
   <small>BOJ, Programmers 등의 알고리즘 문제 풀이를 Python으로 연습</small>
 </div>
 
@@ -325,6 +325,8 @@
 | 이것이 취업을 위한 코딩테스트다 | [문자열 재정렬](./python-for-coding-test/문자열재정렬.py) |           |
 
 </details>
+
+<br/>
 
 ### 2019년
 
