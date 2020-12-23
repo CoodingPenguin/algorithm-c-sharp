@@ -4,11 +4,9 @@
   <a href="https://github.com/coodingpenguin/repository-guideline">
     <img src="logo.png" alt="Logo" width="128" height="128">
   </a>
-  <h1 style='border: none; margin-bottom: 5px;'>Problem Solving</h1>
+  <h3 style='border: none; margin-bottom: 5px;'>Problem Solving</h3>
   <small>BOJ, Programmers 등의 알고리즘 문제 풀이를 Python으로 연습</small>
 </div>
-
----
 
 ## 🏆 업적
 
