@@ -5,7 +5,7 @@
     <img src="logo.png" alt="Logo" width="128" height="128">
   </a>
   <h3 style='border: none; margin-bottom: 5px;'>Problem Solving</h2>
-  <small>BOJ, Programmers 등의 Python 알고리즘 문제 풀이 연습</small>
+  <small>BOJ, Programmers 등의 알고리즘 문제 풀이를 Python으로 연습</small>
 </div>
 
 ## 🏆 업적
@@ -42,7 +42,7 @@
 
 ## 👩‍💻 푼 문제들
 
-- 다시 풀어볼 문제는 **굵은 글씨**로 표시합니다.
+- 다시 풀어볼 문제는 `다시풀기`에 ✔로 표시합니다.
 - 일부 문제의 풀이는 [코딩하는펭귄의 저장소](https://cooding-penguin.netlify.app/)에서 확인하실 수 있습니다.
 
 ### 2020년
@@ -316,7 +316,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong>📄 기타</strong></summary>
+<summary><strong>📄 기타 (Others)</strong></summary>
 
 <br/>
 
