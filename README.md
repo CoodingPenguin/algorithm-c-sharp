@@ -48,7 +48,7 @@
 ### 2020년
 
 <details markdown="1">
-<summary><strong>🚀 백준 온라인 저지 (BaekJoon Online Judge)</strong></summary>
+<summary><strong>📄 백준 온라인 저지 (BaekJoon Online Judge)</strong></summary>
 
 <br/>
 
@@ -256,7 +256,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong>🐦 프로그래머스 (Programmers)</strong></summary>
+<summary><strong>📄 프로그래머스 (Programmers)</strong></summary>
 
 <br/>
 
@@ -329,7 +329,7 @@
 ### 2019년
 
 <details markdown="1">
-<summary><strong>🚀 백준 온라인 저지 (BaekJoon Online Judge)</strong></summary>
+<summary><strong>📄 백준 온라인 저지 (BaekJoon Online Judge)</strong></summary>
 
 <br/>
 
