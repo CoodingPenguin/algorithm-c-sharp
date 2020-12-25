@@ -244,14 +244,14 @@
 |   12865   |         [평범한 배낭](https://www.acmicpc.net/problem/12865)         |     ✔     |
 |   18406   |       [럭키 스트레이트](https://www.acmicpc.net/problem/18406)       |           |
 |   1931    |          [회의실배정](https://www.acmicpc.net/problem/1931)          |     ✔     |
-|           |        [잃어버린 괄호](https://www.acmicpc.net/problem/1541)         |           |
-|           |             [검문](https://www.acmicpc.net/problem/2981)             |     ✔     |
-|           |         [이항 계수 2](https://www.acmicpc.net/problem/11051)         |           |
-|           |            [스택](https://www.acmicpc.net/problem/10828)             |           |
-|           |        [패션왕 신해빈](https://www.acmicpc.net/problem/9375)         |     ✔     |
-|           |        [조합 0의 개수](https://www.acmicpc.net/problem/2004)         |     ✔     |
-|           |        [균형잡힌 세상](https://www.acmicpc.net/problem/4949)         |           |
-|           |          [스택 수열](https://www.acmicpc.net/problem/1874)           |           |
+|   1541    |        [잃어버린 괄호](https://www.acmicpc.net/problem/1541)         |           |
+|   2981    |             [검문](https://www.acmicpc.net/problem/2981)             |     ✔     |
+|   11051   |         [이항 계수 2](https://www.acmicpc.net/problem/11051)         |           |
+|   10828   |            [스택](https://www.acmicpc.net/problem/10828)             |           |
+|   9375    |        [패션왕 신해빈](https://www.acmicpc.net/problem/9375)         |     ✔     |
+|   2004    |        [조합 0의 개수](https://www.acmicpc.net/problem/2004)         |     ✔     |
+|   4949    |        [균형잡힌 세상](https://www.acmicpc.net/problem/4949)         |           |
+|   1874    |          [스택 수열](https://www.acmicpc.net/problem/1874)           |           |
 
 </details>
 
