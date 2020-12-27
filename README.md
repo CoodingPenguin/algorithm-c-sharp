@@ -257,6 +257,7 @@
 |   11866   |       [요세푸스 문제0](https://www.acmicpc.net/problem/11866)        |           |
 |   1966    |          [프린터 큐](https://www.acmicpc.net/problem/1966)           |           |
 |   10866   |             [덱](https://www.acmicpc.net/problem/10866)              |           |
+|   1021    |         [회전하는 큐](https://www.acmicpc.net/problem/1021)          |           |
 
 </details>
 
