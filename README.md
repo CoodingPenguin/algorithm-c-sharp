@@ -258,6 +258,7 @@
 |   1966    |          [프린터 큐](https://www.acmicpc.net/problem/1966)           |           |
 |   10866   |             [덱](https://www.acmicpc.net/problem/10866)              |           |
 |   1021    |         [회전하는 큐](https://www.acmicpc.net/problem/1021)          |           |
+|   5430    |              [AC](https://www.acmicpc.net/problem/5430)              |     ✔     |
 
 </details>
 
