@@ -253,6 +253,7 @@
 |   4949    |        [균형잡힌 세상](https://www.acmicpc.net/problem/4949)         |           |
 |   1874    |          [스택 수열](https://www.acmicpc.net/problem/1874)           |           |
 |   18258   |             [큐2](https://www.acmicpc.net/problem/18258)             |           |
+|   2164    |            [카드2](https://www.acmicpc.net/problem/2164)             |           |
 
 </details>
 
