@@ -254,6 +254,7 @@
 |   1874    |          [스택 수열](https://www.acmicpc.net/problem/1874)           |           |
 |   18258   |             [큐2](https://www.acmicpc.net/problem/18258)             |           |
 |   2164    |            [카드2](https://www.acmicpc.net/problem/2164)             |           |
+|   11866   |       [요세푸스 문제0](https://www.acmicpc.net/problem/11866)        |           |
 
 </details>
 
