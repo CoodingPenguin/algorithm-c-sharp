@@ -47,6 +47,8 @@
 
 ### 2020년
 
+> **`2020.12.28`** [Code-Test-Study](https://github.com/CodeTest-StudyGroup/Code-Test-Study)의 카카오/삼성 기출문제 풀기 시작
+
 <details markdown="1">
 <summary><strong>📄 백준 온라인 저지 (BaekJoon Online Judge)</strong></summary>
 
