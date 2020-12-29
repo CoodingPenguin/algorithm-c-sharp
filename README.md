@@ -262,6 +262,7 @@
 |   1021    |         [회전하는 큐](https://www.acmicpc.net/problem/1021)          |           |
 |   5430    |              [AC](https://www.acmicpc.net/problem/5430)              |     ✔     |
 |   15953   |          [상금 헌터](https://www.acmicpc.net/problem/15953)          |           |
+|   2630    |        [색종이 만들기](https://www.acmicpc.net/problem/2630)         |           |
 
 </details>
 
