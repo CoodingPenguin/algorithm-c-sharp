@@ -45,9 +45,33 @@
 - 다시 풀어볼 문제는 `다시풀기`에 ✔로 표시합니다.
 - 일부 문제의 풀이는 [코딩하는펭귄의 저장소](https://cooding-penguin.netlify.app/)에서 확인하실 수 있습니다.
 
-### 2020년
-
 > **`2020.12.28`** [Code-Test-Study](https://github.com/CodeTest-StudyGroup/Code-Test-Study)의 카카오/삼성 기출문제 풀기 시작
+
+### 2021년
+
+<details markdown="1">
+<summary><strong>📄 백준 온라인 저지 (BaekJoon Online Judge)</strong></summary>
+
+<br/>
+
+| 문제 번호 |                          제목                          | 다시 풀기 |
+| :-------: | :----------------------------------------------------: | :-------: |
+|   18352   | [특정 거리의 도시 찾기](https://www.acmicpc.net/18352) |     ✔     |
+
+</details>
+
+<details markdown="1">
+<summary><strong>📄 프로그래머스 (Programmers)</strong></summary>
+
+<br/>
+
+| 레벨 | 제목 | 다시 풀기 |
+| :--: | :--: | :-------: |
+
+<br/>
+</details>
+
+### 2020년
 
 <details markdown="1">
 <summary><strong>📄 백준 온라인 저지 (BaekJoon Online Judge)</strong></summary>
