@@ -70,6 +70,7 @@
 |  레벨   |                                    제목                                     | 다시 풀기 |
 | :-----: | :-------------------------------------------------------------------------: | :-------: |
 | Level 2 | [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) |           |
+| Level 2 |      [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)       |           |
 
 <br/>
 </details>
