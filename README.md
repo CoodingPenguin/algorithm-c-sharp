@@ -8,7 +8,7 @@
   <small>BOJ, Programmers 등의 알고리즘 문제 풀이를 Python으로 연습</small>
 </div>
 
-## 🏆 업적
+## 🏆 기록
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=unodostre)](https://solved.ac/unodostre)
@@ -36,6 +36,12 @@
         <td align="center">프로그래머스</td>
         <td align="center">Level 1 완료!</td>
         <td align="center">2020년 09월 11일</td>
+        <td align="center">─</td>
+    </tr>
+    <tr>
+        <td align="center">이것이 취업을 위한 코딩테스트다</td>
+        <td align="center">1회독 완료!</td>
+        <td align="center">2021년 01월 05일</td>
         <td align="center">─</td>
     </tr>
 </table>
@@ -71,6 +77,7 @@
 | :-----: | :-------------------------------------------------------------------------: | :-------: |
 | Level 2 | [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) |           |
 | Level 2 |      [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)       |           |
+| Level 2 |   [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)   |     ✔     |
 
 <br/>
 </details>
