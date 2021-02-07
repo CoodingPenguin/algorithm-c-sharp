@@ -65,6 +65,7 @@
 |   18352   | [특정 거리의 도시 찾기](https://www.acmicpc.net/18352) |     ✔     |
 |   11404   |       [플로이드](https://www.acmicpc.net/11404)        |           |
 |   10825   |        [국영수](https://www.acmicpc.net/10825)         |           |
+|   1920    |        [수 찾기](https://www.acmicpc.net/1920)         |           |
 
 </details>
 
