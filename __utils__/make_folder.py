@@ -1,7 +1,7 @@
 import os
 import errno
 
-for i in range(1000, 17300, 100):
+for i in range(1000, 15000, 100):
     try:
         if not(os.path.isdir(f'{i} - {i+99}')):
             os.makedirs(os.path.join(f'{i} - {i+99}'))
