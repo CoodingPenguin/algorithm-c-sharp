@@ -68,6 +68,7 @@
 |   1920    |        [수 찾기](https://www.acmicpc.net/1920)         |           |
 |   13458   |       [시험 감독](https://www.acmicpc.net/13458)       |           |
 |   1010    |       [다리 놓기](https://www.acmicpc.net/1010)        |           |
+|   9184    |    [신나는 함수 실행](https://www.acmicpc.net/9184)    |           |
 
 </details>
 
