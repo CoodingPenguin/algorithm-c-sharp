@@ -51,9 +51,9 @@
 - 다시 풀어볼 문제는 `다시풀기`에 ✔로 표시합니다.
 - 일부 문제의 풀이는 [코딩하는펭귄의 저장소](https://cooding-penguin.netlify.app/)에서 확인하실 수 있습니다.
 
-> **`2020.12.28`** [Code-Test-Study](https://github.com/CodeTest-StudyGroup/Code-Test-Study)의 카카오/삼성 기출문제 풀기 시작
-
 ### 2021년
+
+> **`2021.02.15`** 백준 단계별 유형과 Programmers의 Level2 문제까지 푼 후 기출문제 풀기로 계획 변경
 
 <details markdown="1">
 <summary><strong>📄 백준 온라인 저지 (BaekJoon Online Judge)</strong></summary>
@@ -67,6 +67,7 @@
 |   10825   |        [국영수](https://www.acmicpc.net/10825)         |           |
 |   1920    |        [수 찾기](https://www.acmicpc.net/1920)         |           |
 |   13458   |       [시험 감독](https://www.acmicpc.net/13458)       |           |
+|   1010    |       [다리 놓기](https://www.acmicpc.net/1010)        |           |
 
 </details>
 
@@ -100,6 +101,8 @@
 <br/>
 
 ### 2020년
+
+> **`2020.12.28`** [Code-Test-Study](https://github.com/CodeTest-StudyGroup/Code-Test-Study)의 카카오/삼성 기출문제 풀기 시작
 
 <details markdown="1">
 <summary><strong>📄 백준 온라인 저지 (BaekJoon Online Judge)</strong></summary>
