@@ -71,6 +71,7 @@
 |   9184    |    [신나는 함수 실행](https://www.acmicpc.net/problem/9184)    |           |
 |   15947   | [아기 석환 뚜루루 뚜루](https://www.acmicpc.net/problem/15947) |           |
 |   11279   |        [최대힙](https://www.acmicpc.net/problem/11279)         |           |
+|   1927    |         [최소힙](https://www.acmicpc.net/problem/1927)         |           |
 
 </details>
 
