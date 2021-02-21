@@ -60,16 +60,17 @@
 
 <br/>
 
-| 문제 번호 |                          제목                          | 다시 풀기 |
-| :-------: | :----------------------------------------------------: | :-------: |
-|   18352   | [특정 거리의 도시 찾기](https://www.acmicpc.net/18352) |     ✔     |
-|   11404   |       [플로이드](https://www.acmicpc.net/11404)        |           |
-|   10825   |        [국영수](https://www.acmicpc.net/10825)         |           |
-|   1920    |        [수 찾기](https://www.acmicpc.net/1920)         |           |
-|   13458   |       [시험 감독](https://www.acmicpc.net/13458)       |           |
-|   1010    |       [다리 놓기](https://www.acmicpc.net/1010)        |           |
-|   9184    |    [신나는 함수 실행](https://www.acmicpc.net/9184)    |           |
-|   15947   | [아기 석환 뚜루루 뚜루](https://www.acmicpc.net/15947) |           |
+| 문제 번호 |                              제목                              | 다시 풀기 |
+| :-------: | :------------------------------------------------------------: | :-------: |
+|   18352   | [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) |     ✔     |
+|   11404   |       [플로이드](https://www.acmicpc.net/problem/11404)        |           |
+|   10825   |        [국영수](https://www.acmicpc.net/problem/10825)         |           |
+|   1920    |        [수 찾기](https://www.acmicpc.net/problem/1920)         |           |
+|   13458   |       [시험 감독](https://www.acmicpc.net/problem/13458)       |           |
+|   1010    |       [다리 놓기](https://www.acmicpc.net/problem/1010)        |           |
+|   9184    |    [신나는 함수 실행](https://www.acmicpc.net/problem/9184)    |           |
+|   15947   | [아기 석환 뚜루루 뚜루](https://www.acmicpc.net/problem/15947) |           |
+|   11279   |        [최대힙](https://www.acmicpc.net/problem/11279)         |           |
 
 </details>
 
@@ -113,7 +114,7 @@
 
 | 문제 번호 |                                 제목                                 | 다시 풀기 |
 | :-------: | :------------------------------------------------------------------: | :-------: |
-|   1546    |                 [평균](https://www.acmicpc.net/1546)                 |           |
+|   1546    |             [평균](https://www.acmicpc.net/problem/1546)             |           |
 |   2163    |        [초콜릿 자르기](https://www.acmicpc.net/problem/2163)         |           |
 |   2525    |          [오븐 시계](https://www.acmicpc.net/problem/2525)           |           |
 |   2530    |        [인공지능 시계](https://www.acmicpc.net/problem/2530)         |           |
