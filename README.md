@@ -76,6 +76,7 @@
 |   17390   |  [이건 꼭 풀어야 해!](https://www.acmicpc.net/problem/17390)   |           |
 |   13305   |        [주유소](https://www.acmicpc.net/problem/13305)         |           |
 |   17298   |        [오큰수](https://www.acmicpc.net/problem/17298)         |     ✔     |
+|   1259    |       [팰린드롬수](https://www.acmicpc.net/problem/1259)       |           |
 
 </details>
 
