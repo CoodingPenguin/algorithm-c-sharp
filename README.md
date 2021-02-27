@@ -77,6 +77,7 @@
 |   13305   |        [주유소](https://www.acmicpc.net/problem/13305)         |           |
 |   17298   |        [오큰수](https://www.acmicpc.net/problem/17298)         |     ✔     |
 |   1259    |       [팰린드롬수](https://www.acmicpc.net/problem/1259)       |           |
+|   10845   |          [큐](https://www.acmicpc.net/problem/10845)           |           |
 
 </details>
 
