@@ -74,6 +74,7 @@
 |   1927    |        [최소 힙](https://www.acmicpc.net/problem/1927)         |           |
 |   11286   |       [절대값 힙](https://www.acmicpc.net/problem/11286)       |           |
 |   17390   |  [이건 꼭 풀어야 해!](https://www.acmicpc.net/problem/17390)   |           |
+|   13305   |        [주유소](https://www.acmicpc.net/problem/13305)         |           |
 
 </details>
 
