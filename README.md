@@ -79,6 +79,7 @@
 |   1259    |       [팰린드롬수](https://www.acmicpc.net/problem/1259)       |           |
 |   10845   |          [큐](https://www.acmicpc.net/problem/10845)           |           |
 |   15829   |        [Hashing](https://www.acmicpc.net/problem/15829)        |           |
+|   10816   |      [숫자 카드2](https://www.acmicpc.net/problem/10816)       |           |
 
 </details>
 
