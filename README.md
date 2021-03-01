@@ -81,6 +81,7 @@
 |   15829   |        [Hashing](https://www.acmicpc.net/problem/15829)        |           |
 |   10816   |      [숫자 카드2](https://www.acmicpc.net/problem/10816)       |           |
 |   2805    |      [나무 자르기](https://www.acmicpc.net/problem/2805)       |     ✔     |
+|   1992    |        [쿼드트리](https://www.acmicpc.net/problem/1992)        |           |
 
 </details>
 
