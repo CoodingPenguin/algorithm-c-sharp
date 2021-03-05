@@ -83,6 +83,7 @@
 |   2805    |      [나무 자르기](https://www.acmicpc.net/problem/2805)       |     ✔     |
 |   1992    |        [쿼드트리](https://www.acmicpc.net/problem/1992)        |           |
 |   1654    |      [랜선 자르기](https://www.acmicpc.net/problem/1654)       |     ✔     |
+|   18111   |     [마인크래프트](https://www.acmicpc.net/problem/18111)      |     ✔     |
 
 </details>
 
