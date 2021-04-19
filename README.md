@@ -114,6 +114,7 @@
 | 이것이 취업을 위한 코딩테스트다 | [정렬된 배열에서 특정 수의 개수 구하기](./python-for-coding-test/binary_search/정렬된배열에서특정수의개수구하기.py) |           |
 | 이것이 취업을 위한 코딩테스트다 |                   [여행 계획](./python-for-coding-test/graph/정렬된배열에서특정수의개수구하기.py)                   |           |
 | 이것이 취업을 위한 코딩테스트다 |                            [모험가 길드](./python-for-coding-test/greedy/모험가길드.py)                             |     ✔     |
+| 이것이 취업을 위한 코딩테스트다 |                      [곱하기 혹은 더하기](./python-for-coding-test/greedy/곱하기혹은더하기.py)                      |           |
 
 </details>
 
