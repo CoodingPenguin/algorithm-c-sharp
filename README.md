@@ -87,6 +87,7 @@
 |   1260    |       [DFS와 BFS](https://www.acmicpc.net/problem/1260)        |     ✔     |
 |   1780    |      [종이의 개수](https://www.acmicpc.net/problem/1780)       |     ✔     |
 |   1629    |          [곱셈](https://www.acmicpc.net/problem/1629)          |     ✔     |
+|   4796    |          [캠핑](https://www.acmicpc.net/problem/4796)          |           |
 
 </details>
 
