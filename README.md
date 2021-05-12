@@ -92,7 +92,7 @@
 |   4796    |          [캠핑](https://www.acmicpc.net/problem/4796)          |           |
 |   11725   |   [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)    |           |
 |   1325    |     [효율적인 해킹](https://www.acmicpc.net/problem/1325)      |     ✔     |
-|   1325    |     [효율적인 해킹](https://www.acmicpc.net/problem/1325)      |     ✔     |
+|   2178    |       [미로 탐색](https://www.acmicpc.net/problem/2178)        |           |
 
 </details>
 
