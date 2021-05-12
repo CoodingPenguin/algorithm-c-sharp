@@ -55,6 +55,8 @@
 
 > **`2021.02.15`** 백준 단계별 유형과 Programmers의 Level2 문제까지 푼 후 기출문제 풀기로 계획 변경
 
+> **`2021.05.10`** [boostcamp-ai-tech-4/coding-test-study](https://github.com/boostcamp-ai-tech-4/coding-test-study)에서 [tony9402님의 백준 문제집](https://github.com/tony9402/baekjoon)로 스터디 진행 중
+
 <details markdown="1">
 <summary><strong>📄 백준 온라인 저지 (BaekJoon Online Judge)</strong></summary>
 
