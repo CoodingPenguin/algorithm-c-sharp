@@ -94,6 +94,7 @@
 |   1325    |     [효율적인 해킹](https://www.acmicpc.net/problem/1325)      |     ✔     |
 |   2178    |       [미로 탐색](https://www.acmicpc.net/problem/2178)        |           |
 |   2667    |     [단지번호붙이기](https://www.acmicpc.net/problem/2667)     |           |
+|   7569    |         [토마토](https://www.acmicpc.net/problem/7569)         |           |
 
 </details>
 
