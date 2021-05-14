@@ -96,6 +96,8 @@
 |   2667    |     [단지번호붙이기](https://www.acmicpc.net/problem/2667)     |           |
 |   7569    |         [토마토](https://www.acmicpc.net/problem/7569)         |           |
 |   7576    |         [토마토](https://www.acmicpc.net/problem/7576)         |           |
+|   16918   |        [봄버맨](https://www.acmicpc.net/problem/16918)         |           |
+|   5547    |      [일루미네이션](https://www.acmicpc.net/problem/5547)      |     ✔     |
 
 </details>
 
