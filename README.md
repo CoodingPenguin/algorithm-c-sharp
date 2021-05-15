@@ -44,6 +44,12 @@
         <td align="center">2021년 01월 05일</td>
         <td align="center">─</td>
     </tr>
+    <tr>
+        <td align="center">BOJ</td>
+        <td align="center">300개 달성!</td>
+        <td align="center">2021년 05월 15일</td>
+        <td align="center">─</td>
+    </tr>
 </table>
 
 ## 👩‍💻 푼 문제들
