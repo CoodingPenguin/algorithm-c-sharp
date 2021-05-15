@@ -98,6 +98,8 @@
 |   7576    |         [토마토](https://www.acmicpc.net/problem/7576)         |           |
 |   16918   |        [봄버맨](https://www.acmicpc.net/problem/16918)         |           |
 |   5547    |      [일루미네이션](https://www.acmicpc.net/problem/5547)      |     ✔     |
+|   14502   |        [연구소](https://www.acmicpc.net/problem/14502)         |           |
+|   16234   |       [인구 이동](https://www.acmicpc.net/problem/16234)       |     ✔     |
 
 </details>
 
