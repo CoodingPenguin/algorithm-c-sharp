@@ -106,6 +106,8 @@
 |   5547    |      [일루미네이션](https://www.acmicpc.net/problem/5547)      |     ✔     |
 |   14502   |        [연구소](https://www.acmicpc.net/problem/14502)         |           |
 |   16234   |       [인구 이동](https://www.acmicpc.net/problem/16234)       |     ✔     |
+|   2636    |          [치즈](https://www.acmicpc.net/problem/2636)          |           |
+|   13549   |       [숨바꼭질3](https://www.acmicpc.net/problem/13549)       |     ✔     |
 
 </details>
 
