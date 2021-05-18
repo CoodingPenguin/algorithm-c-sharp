@@ -39,7 +39,7 @@
         <td align="center">─</td>
     </tr>
     <tr>
-        <td align="center">이것이 취업을 위한 코딩테스트다</td>
+        <td align="center">이것이 취업을 위한<br/>코딩테스트다</td>
         <td align="center">1회독 완료!</td>
         <td align="center">2021년 01월 05일</td>
         <td align="center">─</td>
