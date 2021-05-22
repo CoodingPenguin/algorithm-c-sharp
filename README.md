@@ -108,6 +108,8 @@
 |   16234   |       [인구 이동](https://www.acmicpc.net/problem/16234)       |     ✔     |
 |   2636    |          [치즈](https://www.acmicpc.net/problem/2636)          |           |
 |   13549   |       [숨바꼭질3](https://www.acmicpc.net/problem/13549)       |     ✔     |
+|   16973   |     [직사각형 탈출](https://www.acmicpc.net/problem/16973)     |     ✔     |
+|   14940   |       [숨바꼭질3](https://www.acmicpc.net/problem/14940)       |           |
 
 </details>
 
