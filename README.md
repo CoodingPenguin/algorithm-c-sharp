@@ -110,6 +110,7 @@
 |   13549   |       [숨바꼭질3](https://www.acmicpc.net/problem/13549)       |     ✔     |
 |   16973   |     [직사각형 탈출](https://www.acmicpc.net/problem/16973)     |     ✔     |
 |   14940   |       [숨바꼭질3](https://www.acmicpc.net/problem/14940)       |           |
+|   13023   |         [ABCDE](https://www.acmicpc.net/problem/13023)         |     ✔     |
 
 </details>
 
