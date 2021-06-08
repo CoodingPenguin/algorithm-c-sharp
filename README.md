@@ -120,6 +120,8 @@
 |   6550    |        [부분 문자열](https://www.acmicpc.net/problem/6550)         |           |
 |   9046    |           [복호화](https://www.acmicpc.net/problem/9046)           |           |
 |   9342    |           [염색체](https://www.acmicpc.net/problem/9342)           |           |
+|   1764    |           [듣보잡](https://www.acmicpc.net/problem/1764)           |           |
+|   20291   |         [파일 정리](https://www.acmicpc.net/problem/20291)         |           |
 
 </details>
 
