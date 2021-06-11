@@ -122,6 +122,9 @@
 |   9342    |           [염색체](https://www.acmicpc.net/problem/9342)           |           |
 |   1764    |           [듣보잡](https://www.acmicpc.net/problem/1764)           |           |
 |   20291   |         [파일 정리](https://www.acmicpc.net/problem/20291)         |           |
+|   17413   |       [단어 뒤집기2](https://www.acmicpc.net/problem/17413)        |           |
+|   9934    |       [완전 이진 트리](https://www.acmicpc.net/problem/9934)       |           |
+|   20437   |       [문자열 게임2](https://www.acmicpc.net/problem/20437)        |           |
 
 </details>
 
