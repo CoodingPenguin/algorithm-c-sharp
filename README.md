@@ -124,7 +124,10 @@
 |   20291   |         [파일 정리](https://www.acmicpc.net/problem/20291)         |           |
 |   17413   |       [단어 뒤집기2](https://www.acmicpc.net/problem/17413)        |           |
 |   9934    |       [완전 이진 트리](https://www.acmicpc.net/problem/9934)       |           |
-|   20437   |       [문자열 게임2](https://www.acmicpc.net/problem/20437)        |           |
+|   1068    |            [트리](https://www.acmicpc.net/problem/1068)            |           |
+|   6416    |          [트리인가](https://www.acmicpc.net/problem/6416)          |           |
+|   14675   |      [단절점과 단절선](https://www.acmicpc.net/problem/14675)      |           |
+|   17073   |      [나무 위의 빗물](https://www.acmicpc.net/problem/17073)       |           |
 
 </details>
 
