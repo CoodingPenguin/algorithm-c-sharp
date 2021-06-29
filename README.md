@@ -140,8 +140,8 @@
 |   10870   |        [피보나치 수5](https://www.acmicpc.net/problem/10870)        |           |
 |   11726   |         [2xn 타일링](https://www.acmicpc.net/problem/11726)         |           |
 |   17626   |        [Four Squares](https://www.acmicpc.net/problem/17626)        |     ✔     |
-|   11053   | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) |     ✔     |
-|   11727   |        [2xn 타일링 2](https://www.acmicpc.net/problem/11727)        |     ✔     |
+|   11053   | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) |           |
+|   11727   |        [2xn 타일링 2](https://www.acmicpc.net/problem/11727)        |           |
 
 </details>
 
