@@ -1,16 +1,18 @@
-def result(nums, n):
-    dpTable = [0]*n
-    dpTable[0] = nums[0]
+# 문제: [BOJ 1912] 연속합
+# 유형: 동적계획법
+# 메모리/시간: 37164kb / 128ms
 
-    for i in range(1, n):
-        if dpTable[i-1]+nums[i] > nums[i]:
-            dpTable[i] = dpTable[i-1]+nums[i]
-        else:
-            dpTable[i] = nums[i]
+import sys
 
-    return max(dpTable)
+input = sys.stdin.readline
 
+n = int(input())
+arr = list(map(int, input().split()))  # 수열
 
-N = int(input())
-nums = list(map(int, input().split()))
-print(result(nums, N))
+table = [0] * n  # 테이블
+table[0] = arr[0]  # 테이블 초기화
+
+for i in range(1, n):
+    table[i] = max(table[i - 1] + arr[i], arr[i])
+
+print(max(table))  # 최대 연속합

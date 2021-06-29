@@ -1,18 +1,18 @@
+# 문제: [BOJ 2579] 계단 오르기
+# 유형: 동적계획법
+# 메모리/시간: 32056kb / 100ms
+
 import sys
+from collections import defaultdict
 
-def result(stair, n):
-    if len(stair) < 3:
-        return sum(stair)
+input = sys.stdin.readline
 
-    table = [stair[0], max(stair[1], stair[0]+stair[1]), max(stair[0], stair[1])+stair[2]]
-    for i in range(3, n):
-        table.append(max(stair[i]+stair[i-1]+table[i-3], stair[i]+table[i-2]))
-  
-    return table[-1]
+n = int(input())
+score = [int(input()) for _ in range(n)]
+table = defaultdict(int)
+table[0] = score[0]
 
+for i in range(1, n):
+    table[i] = max(table[i - 2], table[i - 3] + score[i - 1]) + score[i]
 
-n = int(sys.stdin.readline())
-stair = []
-for _ in range(n):
-  stair.append(int(sys.stdin.readline()))
-print(result(stair, n))
+print(table[n - 1])  # 점수 최댓값
