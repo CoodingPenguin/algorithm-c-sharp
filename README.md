@@ -142,6 +142,13 @@
 |   17626   |        [Four Squares](https://www.acmicpc.net/problem/17626)        |     ✔     |
 |   11053   | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) |           |
 |   11727   |        [2xn 타일링 2](https://www.acmicpc.net/problem/11727)        |           |
+|   11055   |   [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055)   |           |
+|   1890    |            [점프](https://www.acmicpc.net/problem/1890)             |     ✔     |
+|   2407    |            [조합](https://www.acmicpc.net/problem/2407)             |           |
+|   1106    |            [호텔](https://www.acmicpc.net/problem/1106)             |     ✔     |
+|   15486   |           [퇴사 2](https://www.acmicpc.net/problem/15486)           |     ✔     |
+|   2156    |         [포도주 시식](https://www.acmicpc.net/problem/2156)         |     ✔     |
+|   21317   |      [징검다리 건너기](https://www.acmicpc.net/problem/21317)       |           |
 
 </details>
 
