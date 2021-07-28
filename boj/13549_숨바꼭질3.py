@@ -1,6 +1,6 @@
 # 문제: [BOJ 13549] 숨바꼭질3
 # 유형: BFS
-# 메모리/시간: 	35412kb / 188ms
+# 메모리/시간: 35412kb / 188ms
 # 참고:
 # 	- https://velog.io/@aonee/백준-boj-13549-숨바꼭질3-파이썬
 # 	- https://www.acmicpc.net/board/view/38887#comment-69010

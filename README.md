@@ -149,6 +149,23 @@
 |   15486   |           [퇴사 2](https://www.acmicpc.net/problem/15486)           |     ✔     |
 |   2156    |         [포도주 시식](https://www.acmicpc.net/problem/2156)         |     ✔     |
 |   21317   |      [징검다리 건너기](https://www.acmicpc.net/problem/21317)       |           |
+|   13549   |         [숨바꼭질3](https://www.acmicpc.net/problem/13549)          |     ✔     |
+|   14467   |  [소가 길을 건나간 이유 1](https://www.acmicpc.net/problem/14467)   |           |
+|   1244    |      [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)       |           |
+|   1913    |           [달팽이](https://www.acmicpc.net/problem/1913)            |           |
+|   2578    |            [빙고](https://www.acmicpc.net/problem/2578)             |           |
+|   4396    |          [지뢰 찾기](https://www.acmicpc.net/problem/4396)          |           |
+|   10994   |         [별찍기 19](https://www.acmicpc.net/problem/10994)          |           |
+|   12933   |            [오리](https://www.acmicpc.net/problem/12933)            |           |
+|   14719   |            [빗물](https://www.acmicpc.net/problem/14719)            |     ✔     |
+|   16719   |            [ZOAC](https://www.acmicpc.net/problem/16719)            |     ✔     |
+|   17413   |       [단어 뒤집기 2](https://www.acmicpc.net/problem/17413)        |           |
+|   20164   |       [홀수 홀릭 호석](https://www.acmicpc.net/problem/20164)       |     ✔     |
+|   20207   |            [달력](https://www.acmicpc.net/problem/20207)            |           |
+|   20436   |           [ZOAC 3](https://www.acmicpc.net/problem/20436)           |           |
+|   21608   |       [상어 초등학교](https://www.acmicpc.net/problem/21608)        |           |
+|   11659   |      [구간 합 합치기 4](https://www.acmicpc.net/problem/11659)      |           |
+|   11728   |        [배열 합치기](https://www.acmicpc.net/problem/11728)         |           |
 
 </details>
 
