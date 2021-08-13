@@ -68,121 +68,121 @@
 
 <br/>
 
-| 문제 번호 |                                          제목                                          | 다시 풀기 |
-| :-------: | :------------------------------------------------------------------------------------: | :-------: |
-|   18352   |             [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)             |     ✔     |
-|   11404   |                   [플로이드](https://www.acmicpc.net/problem/11404)                    |           |
-|   10825   |                    [국영수](https://www.acmicpc.net/problem/10825)                     |           |
-|   1920    |                    [수 찾기](https://www.acmicpc.net/problem/1920)                     |           |
-|   13458   |                   [시험 감독](https://www.acmicpc.net/problem/13458)                   |           |
-|   1010    |                   [다리 놓기](https://www.acmicpc.net/problem/1010)                    |           |
-|   9184    |                [신나는 함수 실행](https://www.acmicpc.net/problem/9184)                |           |
-|   15947   |             [아기 석환 뚜루루 뚜루](https://www.acmicpc.net/problem/15947)             |           |
-|   11279   |                    [최대 힙](https://www.acmicpc.net/problem/11279)                    |           |
-|   1927    |                    [최소 힙](https://www.acmicpc.net/problem/1927)                     |           |
-|   11286   |                   [절대값 힙](https://www.acmicpc.net/problem/11286)                   |           |
-|   17390   |              [이건 꼭 풀어야 해!](https://www.acmicpc.net/problem/17390)               |           |
-|   13305   |                    [주유소](https://www.acmicpc.net/problem/13305)                     |           |
-|   17298   |                    [오큰수](https://www.acmicpc.net/problem/17298)                     |     ✔     |
-|   1259    |                   [팰린드롬수](https://www.acmicpc.net/problem/1259)                   |           |
-|   10845   |                      [큐](https://www.acmicpc.net/problem/10845)                       |           |
-|   15829   |                    [Hashing](https://www.acmicpc.net/problem/15829)                    |           |
-|   10816   |                  [숫자 카드2](https://www.acmicpc.net/problem/10816)                   |           |
-|   2805    |                  [나무 자르기](https://www.acmicpc.net/problem/2805)                   |     ✔     |
-|   1992    |                    [쿼드트리](https://www.acmicpc.net/problem/1992)                    |           |
-|   1654    |                  [랜선 자르기](https://www.acmicpc.net/problem/1654)                   |     ✔     |
-|   18111   |                 [마인크래프트](https://www.acmicpc.net/problem/18111)                  |     ✔     |
-|   1260    |                   [DFS와 BFS](https://www.acmicpc.net/problem/1260)                    |     ✔     |
-|   1780    |                  [종이의 개수](https://www.acmicpc.net/problem/1780)                   |     ✔     |
-|   1629    |                      [곱셈](https://www.acmicpc.net/problem/1629)                      |     ✔     |
-|   4796    |                      [캠핑](https://www.acmicpc.net/problem/4796)                      |           |
-|   11725   |               [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)                |           |
-|   1325    |                 [효율적인 해킹](https://www.acmicpc.net/problem/1325)                  |     ✔     |
-|   2178    |                   [미로 탐색](https://www.acmicpc.net/problem/2178)                    |           |
-|   2667    |                 [단지번호붙이기](https://www.acmicpc.net/problem/2667)                 |           |
-|   7569    |                     [토마토](https://www.acmicpc.net/problem/7569)                     |           |
-|   7576    |                     [토마토](https://www.acmicpc.net/problem/7576)                     |           |
-|   16918   |                    [봄버맨](https://www.acmicpc.net/problem/16918)                     |           |
-|   5547    |                  [일루미네이션](https://www.acmicpc.net/problem/5547)                  |     ✔     |
-|   14502   |                    [연구소](https://www.acmicpc.net/problem/14502)                     |           |
-|   16234   |                   [인구 이동](https://www.acmicpc.net/problem/16234)                   |     ✔     |
-|   2636    |                      [치즈](https://www.acmicpc.net/problem/2636)                      |           |
-|   13549   |                   [숨바꼭질3](https://www.acmicpc.net/problem/13549)                   |     ✔     |
-|   16973   |                 [직사각형 탈출](https://www.acmicpc.net/problem/16973)                 |     ✔     |
-|   14940   |                   [숨바꼭질3](https://www.acmicpc.net/problem/14940)                   |           |
-|   13023   |                     [ABCDE](https://www.acmicpc.net/problem/13023)                     |     ✔     |
-|   3029    |                      [경고](https://www.acmicpc.net/problem/3029)                      |           |
-|   10798   |                   [세로 읽기](https://www.acmicpc.net/problem/10798)                   |           |
-|   11365   |                   [!밀비급일](https://www.acmicpc.net/problem/11365)                   |           |
-|   16171   |            [나는 친구가 적다(Small)](https://www.acmicpc.net/problem/16171)            |           |
-|   20154   |           [이 구역의 승자는 누구아?!](https://www.acmicpc.net/problem/20154)           |           |
-|   4659    |               [비밀번호 발음하기](https://www.acmicpc.net/problem/4659)                |           |
-|   6550    |                  [부분 문자열](https://www.acmicpc.net/problem/6550)                   |           |
-|   9046    |                     [복호화](https://www.acmicpc.net/problem/9046)                     |           |
-|   9342    |                     [염색체](https://www.acmicpc.net/problem/9342)                     |           |
-|   1764    |                     [듣보잡](https://www.acmicpc.net/problem/1764)                     |           |
-|   20291   |                   [파일 정리](https://www.acmicpc.net/problem/20291)                   |           |
-|   17413   |                 [단어 뒤집기2](https://www.acmicpc.net/problem/17413)                  |           |
-|   9934    |                 [완전 이진 트리](https://www.acmicpc.net/problem/9934)                 |           |
-|   1068    |                      [트리](https://www.acmicpc.net/problem/1068)                      |           |
-|   6416    |                    [트리인가](https://www.acmicpc.net/problem/6416)                    |           |
-|   14675   |                [단절점과 단절선](https://www.acmicpc.net/problem/14675)                |           |
-|   17073   |                [나무 위의 빗물](https://www.acmicpc.net/problem/17073)                 |           |
-|   1010    |                   [다리 놓기](https://www.acmicpc.net/problem/1010)                    |           |
-|   1463    |                   [1로 만들기](https://www.acmicpc.net/problem/1463)                   |           |
-|   1912    |                     [연속합](https://www.acmicpc.net/problem/1912)                     |     ✔     |
-|   2579    |                  [계단 오르기](https://www.acmicpc.net/problem/2579)                   |           |
-|   2748    |                  [피보나치 수2](https://www.acmicpc.net/problem/2748)                  |           |
-|   2839    |                   [설탕 배달](https://www.acmicpc.net/problem/2839)                    |           |
-|   9035    |                 [1, 2, 3 더하기](https://www.acmicpc.net/problem/9035)                 |           |
-|   9465    |                     [스티커](https://www.acmicpc.net/problem/9465)                     |           |
-|   9655    |                     [돌게임](https://www.acmicpc.net/problem/9655)                     |           |
-|   10870   |                 [피보나치 수5](https://www.acmicpc.net/problem/10870)                  |           |
-|   11726   |                  [2xn 타일링](https://www.acmicpc.net/problem/11726)                   |           |
-|   17626   |                 [Four Squares](https://www.acmicpc.net/problem/17626)                  |     ✔     |
-|   11053   |          [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)           |           |
-|   11727   |                 [2xn 타일링 2](https://www.acmicpc.net/problem/11727)                  |           |
-|   11055   |            [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055)             |           |
-|   1890    |                      [점프](https://www.acmicpc.net/problem/1890)                      |     ✔     |
-|   2407    |                      [조합](https://www.acmicpc.net/problem/2407)                      |           |
-|   1106    |                      [호텔](https://www.acmicpc.net/problem/1106)                      |     ✔     |
-|   15486   |                    [퇴사 2](https://www.acmicpc.net/problem/15486)                     |     ✔     |
-|   2156    |                  [포도주 시식](https://www.acmicpc.net/problem/2156)                   |     ✔     |
-|   21317   |                [징검다리 건너기](https://www.acmicpc.net/problem/21317)                |           |
-|   13549   |                   [숨바꼭질3](https://www.acmicpc.net/problem/13549)                   |     ✔     |
-|   14467   |            [소가 길을 건나간 이유 1](https://www.acmicpc.net/problem/14467)            |           |
-|   1244    |                [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)                |           |
-|   1913    |                     [달팽이](https://www.acmicpc.net/problem/1913)                     |           |
-|   2578    |                      [빙고](https://www.acmicpc.net/problem/2578)                      |           |
-|   4396    |                   [지뢰 찾기](https://www.acmicpc.net/problem/4396)                    |           |
-|   10994   |                   [별찍기 19](https://www.acmicpc.net/problem/10994)                   |           |
-|   12933   |                     [오리](https://www.acmicpc.net/problem/12933)                      |           |
-|   14719   |                     [빗물](https://www.acmicpc.net/problem/14719)                      |     ✔     |
-|   16719   |                     [ZOAC](https://www.acmicpc.net/problem/16719)                      |     ✔     |
-|   17413   |                 [단어 뒤집기 2](https://www.acmicpc.net/problem/17413)                 |           |
-|   20164   |                [홀수 홀릭 호석](https://www.acmicpc.net/problem/20164)                 |     ✔     |
-|   20207   |                     [달력](https://www.acmicpc.net/problem/20207)                      |           |
-|   20436   |                    [ZOAC 3](https://www.acmicpc.net/problem/20436)                     |           |
-|   21608   |                 [상어 초등학교](https://www.acmicpc.net/problem/21608)                 |           |
-|   11659   |               [구간 합 합치기 4](https://www.acmicpc.net/problem/11659)                |           |
-|   21921   |                    [블로그](https://www.acmicpc.net/problem/21921)                     |     ✔     |
-|   20922   |                [겹치는 건 싫어](https://www.acmicpc.net/problem/20922)                 |     ✔     |
-|   2470    |                    [두 용액](https://www.acmicpc.net/problem/2470)                     |     ✔     |
-|   15961   |                   [회전 초밥](https://www.acmicpc.net/problem/15961)                   |     ✔     |
-|   20366   |              [같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366)              |     ✔     |
-|   20442   |                  [ㅋㅋ루ㅋㅋ](https://www.acmicpc.net/problem/20442)                   |     ✔     |
-|   1969    |                      [DNA](https://www.acmicpc.net/problem/1969)                       |           |
-|   2503    |                   [숫자 야구](https://www.acmicpc.net/problem/2503)                    |           |
-|   2422    | [한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422) |     ✔     |
-|   17626   |                 [Four Squares](https://www.acmicpc.net/problem/17626)                  |     ✔     |
-|   9079    |                   [동전 게임](https://www.acmicpc.net/problem/9079)                    |     ✔     |
-|   14501   |                     [퇴사](https://www.acmicpc.net/problem/14501)                      |           |
-|   16937   |                   [두 스티커](https://www.acmicpc.net/problem/16937)                   |           |
-|   16439   |                 [치킨치킨치킨](https://www.acmicpc.net/problem/16439)                  |           |
-|   2615    |                      [오목](https://www.acmicpc.net/problem/2615)                      |           |
-|   16508   |                    [전공책]](https://www.acmicpc.net/problem/16508)                    |     ✔     |
-|   1548    |                 [부분 삼각 수열](https://www.acmicpc.net/problem/1548)                 |     ✔     |
-|   2961    |           [도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961)            |           |
+| 문제 번호 |                                                 제목                                                  | 다시 풀기 |
+| :-------: | :---------------------------------------------------------------------------------------------------: | :-------: |
+|   18352   |                    [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)                     |     ✔     |
+|   11404   |                           [플로이드](https://www.acmicpc.net/problem/11404)                           |           |
+|   10825   |                            [국영수](https://www.acmicpc.net/problem/10825)                            |           |
+|   1920    |                            [수 찾기](https://www.acmicpc.net/problem/1920)                            |           |
+|   13458   |                          [시험 감독](https://www.acmicpc.net/problem/13458)                           |           |
+|   1010    |                           [다리 놓기](https://www.acmicpc.net/problem/1010)                           |           |
+|   9184    |                       [신나는 함수 실행](https://www.acmicpc.net/problem/9184)                        |           |
+|   15947   |                    [아기 석환 뚜루루 뚜루](https://www.acmicpc.net/problem/15947)                     |           |
+|   11279   |                           [최대 힙](https://www.acmicpc.net/problem/11279)                            |           |
+|   1927    |                            [최소 힙](https://www.acmicpc.net/problem/1927)                            |           |
+|   11286   |                          [절대값 힙](https://www.acmicpc.net/problem/11286)                           |           |
+|   17390   |                      [이건 꼭 풀어야 해!](https://www.acmicpc.net/problem/17390)                      |           |
+|   13305   |                            [주유소](https://www.acmicpc.net/problem/13305)                            |           |
+|   17298   |                            [오큰수](https://www.acmicpc.net/problem/17298)                            |     ✔     |
+|   1259    |                          [팰린드롬수](https://www.acmicpc.net/problem/1259)                           |           |
+|   10845   |                              [큐](https://www.acmicpc.net/problem/10845)                              |           |
+|   15829   |                           [Hashing](https://www.acmicpc.net/problem/15829)                            |           |
+|   10816   |                          [숫자 카드2](https://www.acmicpc.net/problem/10816)                          |           |
+|   2805    |                          [나무 자르기](https://www.acmicpc.net/problem/2805)                          |     ✔     |
+|   1992    |                           [쿼드트리](https://www.acmicpc.net/problem/1992)                            |           |
+|   1654    |                          [랜선 자르기](https://www.acmicpc.net/problem/1654)                          |     ✔     |
+|   18111   |                         [마인크래프트](https://www.acmicpc.net/problem/18111)                         |     ✔     |
+|   1260    |                           [DFS와 BFS](https://www.acmicpc.net/problem/1260)                           |     ✔     |
+|   1780    |                          [종이의 개수](https://www.acmicpc.net/problem/1780)                          |     ✔     |
+|   1629    |                             [곱셈](https://www.acmicpc.net/problem/1629)                              |     ✔     |
+|   4796    |                             [캠핑](https://www.acmicpc.net/problem/4796)                              |           |
+|   11725   |                       [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)                       |           |
+|   1325    |                         [효율적인 해킹](https://www.acmicpc.net/problem/1325)                         |     ✔     |
+|   2178    |                           [미로 탐색](https://www.acmicpc.net/problem/2178)                           |           |
+|   2667    |                        [단지번호붙이기](https://www.acmicpc.net/problem/2667)                         |           |
+|   7569    |                            [토마토](https://www.acmicpc.net/problem/7569)                             |           |
+|   7576    |                            [토마토](https://www.acmicpc.net/problem/7576)                             |           |
+|   16918   |                            [봄버맨](https://www.acmicpc.net/problem/16918)                            |           |
+|   5547    |                         [일루미네이션](https://www.acmicpc.net/problem/5547)                          |     ✔     |
+|   14502   |                            [연구소](https://www.acmicpc.net/problem/14502)                            |           |
+|   16234   |                          [인구 이동](https://www.acmicpc.net/problem/16234)                           |     ✔     |
+|   2636    |                             [치즈](https://www.acmicpc.net/problem/2636)                              |           |
+|   13549   |                          [숨바꼭질3](https://www.acmicpc.net/problem/13549)                           |     ✔     |
+|   16973   |                        [직사각형 탈출](https://www.acmicpc.net/problem/16973)                         |     ✔     |
+|   14940   |                          [숨바꼭질3](https://www.acmicpc.net/problem/14940)                           |           |
+|   13023   |                            [ABCDE](https://www.acmicpc.net/problem/13023)                             |     ✔     |
+|   3029    |                             [경고](https://www.acmicpc.net/problem/3029)                              |           |
+|   10798   |                          [세로 읽기](https://www.acmicpc.net/problem/10798)                           |           |
+|   11365   |                          [!밀비급일](https://www.acmicpc.net/problem/11365)                           |           |
+|   16171   |                   [나는 친구가 적다(Small)](https://www.acmicpc.net/problem/16171)                    |           |
+|   20154   |                  [이 구역의 승자는 누구아?!](https://www.acmicpc.net/problem/20154)                   |           |
+|   4659    |                       [비밀번호 발음하기](https://www.acmicpc.net/problem/4659)                       |           |
+|   6550    |                          [부분 문자열](https://www.acmicpc.net/problem/6550)                          |           |
+|   9046    |                            [복호화](https://www.acmicpc.net/problem/9046)                             |           |
+|   9342    |                            [염색체](https://www.acmicpc.net/problem/9342)                             |           |
+|   1764    |                            [듣보잡](https://www.acmicpc.net/problem/1764)                             |           |
+|   20291   |                          [파일 정리](https://www.acmicpc.net/problem/20291)                           |           |
+|   17413   |                         [단어 뒤집기2](https://www.acmicpc.net/problem/17413)                         |           |
+|   9934    |                        [완전 이진 트리](https://www.acmicpc.net/problem/9934)                         |           |
+|   1068    |                             [트리](https://www.acmicpc.net/problem/1068)                              |           |
+|   6416    |                           [트리인가](https://www.acmicpc.net/problem/6416)                            |           |
+|   14675   |                       [단절점과 단절선](https://www.acmicpc.net/problem/14675)                        |           |
+|   17073   |                        [나무 위의 빗물](https://www.acmicpc.net/problem/17073)                        |           |
+|   1010    |                           [다리 놓기](https://www.acmicpc.net/problem/1010)                           |           |
+|   1463    |                          [1로 만들기](https://www.acmicpc.net/problem/1463)                           |           |
+|   1912    |                            [연속합](https://www.acmicpc.net/problem/1912)                             |     ✔     |
+|   2579    |                          [계단 오르기](https://www.acmicpc.net/problem/2579)                          |           |
+|   2748    |                         [피보나치 수2](https://www.acmicpc.net/problem/2748)                          |           |
+|   2839    |                           [설탕 배달](https://www.acmicpc.net/problem/2839)                           |           |
+|   9035    |                        [1, 2, 3 더하기](https://www.acmicpc.net/problem/9035)                         |           |
+|   9465    |                            [스티커](https://www.acmicpc.net/problem/9465)                             |           |
+|   9655    |                            [돌게임](https://www.acmicpc.net/problem/9655)                             |           |
+|   10870   |                         [피보나치 수5](https://www.acmicpc.net/problem/10870)                         |           |
+|   11726   |                          [2xn 타일링](https://www.acmicpc.net/problem/11726)                          |           |
+|   17626   |                         [Four Squares](https://www.acmicpc.net/problem/17626)                         |     ✔     |
+|   11053   |                  [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)                  |           |
+|   11727   |                         [2xn 타일링 2](https://www.acmicpc.net/problem/11727)                         |           |
+|   11055   |                    [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055)                    |           |
+|   1890    |                             [점프](https://www.acmicpc.net/problem/1890)                              |     ✔     |
+|   2407    |                             [조합](https://www.acmicpc.net/problem/2407)                              |           |
+|   1106    |                             [호텔](https://www.acmicpc.net/problem/1106)                              |     ✔     |
+|   15486   |                            [퇴사 2](https://www.acmicpc.net/problem/15486)                            |     ✔     |
+|   2156    |                          [포도주 시식](https://www.acmicpc.net/problem/2156)                          |     ✔     |
+|   21317   |                       [징검다리 건너기](https://www.acmicpc.net/problem/21317)                        |           |
+|   13549   |                          [숨바꼭질3](https://www.acmicpc.net/problem/13549)                           |     ✔     |
+|   14467   |                   [소가 길을 건나간 이유 1](https://www.acmicpc.net/problem/14467)                    |           |
+|   1244    |                       [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)                        |           |
+|   1913    |                            [달팽이](https://www.acmicpc.net/problem/1913)                             |           |
+|   2578    |                             [빙고](https://www.acmicpc.net/problem/2578)                              |           |
+|   4396    |                           [지뢰 찾기](https://www.acmicpc.net/problem/4396)                           |           |
+|   10994   |                          [별찍기 19](https://www.acmicpc.net/problem/10994)                           |           |
+|   12933   |                             [오리](https://www.acmicpc.net/problem/12933)                             |           |
+|   14719   |                             [빗물](https://www.acmicpc.net/problem/14719)                             |     ✔     |
+|   16719   |                             [ZOAC](https://www.acmicpc.net/problem/16719)                             |     ✔     |
+|   17413   |                        [단어 뒤집기 2](https://www.acmicpc.net/problem/17413)                         |           |
+|   20164   |                        [홀수 홀릭 호석](https://www.acmicpc.net/problem/20164)                        |     ✔     |
+|   20207   |                             [달력](https://www.acmicpc.net/problem/20207)                             |           |
+|   20436   |                            [ZOAC 3](https://www.acmicpc.net/problem/20436)                            |           |
+|   21608   |                        [상어 초등학교](https://www.acmicpc.net/problem/21608)                         |           |
+|   11659   |                       [구간 합 합치기 4](https://www.acmicpc.net/problem/11659)                       |           |
+|   21921   |                            [블로그](https://www.acmicpc.net/problem/21921)                            |     ✔     |
+|   20922   |                        [겹치는 건 싫어](https://www.acmicpc.net/problem/20922)                        |     ✔     |
+|   2470    |                            [두 용액](https://www.acmicpc.net/problem/2470)                            |     ✔     |
+|   15961   |                          [회전 초밥](https://www.acmicpc.net/problem/15961)                           |     ✔     |
+|   20366   |                     [같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366)                      |     ✔     |
+|   20442   |                          [ㅋㅋ루ㅋㅋ](https://www.acmicpc.net/problem/20442)                          |     ✔     |
+|   1969    |                              [DNA](https://www.acmicpc.net/problem/1969)                              |           |
+|   2503    |                           [숫자 야구](https://www.acmicpc.net/problem/2503)                           |           |
+|   2422    | <a href="https://www.acmicpc.net/problem/2422">한윤정이 이탈리아에 가서<br/>아이스크림을 사먹는데</a> |     ✔     |
+|   17626   |                         [Four Squares](https://www.acmicpc.net/problem/17626)                         |     ✔     |
+|   9079    |                           [동전 게임](https://www.acmicpc.net/problem/9079)                           |     ✔     |
+|   14501   |                             [퇴사](https://www.acmicpc.net/problem/14501)                             |           |
+|   16937   |                          [두 스티커](https://www.acmicpc.net/problem/16937)                           |           |
+|   16439   |                         [치킨치킨치킨](https://www.acmicpc.net/problem/16439)                         |           |
+|   2615    |                             [오목](https://www.acmicpc.net/problem/2615)                              |           |
+|   16508   |                            [전공책](https://www.acmicpc.net/problem/16508)                            |     ✔     |
+|   1548    |                        [부분 삼각 수열](https://www.acmicpc.net/problem/1548)                         |     ✔     |
+|   2961    |                   [도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961)                   |           |
 
 </details>
 
