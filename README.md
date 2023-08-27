@@ -11,7 +11,7 @@
 ## 🏆 기록
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=unodostre)](https://solved.ac/unodostre)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=coodingpenguin)](https://solved.ac/coodingpenguin)
 
 <table>
     <tr>
@@ -55,7 +55,6 @@
 ## 👩‍💻 푼 문제들
 
 - 다시 풀어볼 문제는 `다시풀기`에 ✔로 표시합니다.
-- 일부 문제의 풀이는 [펭카이브](https://cooding-penguin.netlify.app/)에서 확인하실 수 있습니다.
 
 ### 2021년
 
